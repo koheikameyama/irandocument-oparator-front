@@ -1,0 +1,15 @@
+/* 記事新規作成、編集の微調整 */
+
+.css-owner-new-body {
+    height: 300px !important;
+  }
+  
+  .css-submit-btn {
+    width: 200px;
+    margin: 10px;
+  }
+  
+  .css-fixed-picture {
+    height: 200px;
+  }
+  
